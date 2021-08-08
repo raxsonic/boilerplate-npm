@@ -1,6 +1,5 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Erik Von Schlehenried",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
